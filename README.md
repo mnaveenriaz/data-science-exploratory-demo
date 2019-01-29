@@ -1,5 +1,4 @@
 data-science-exploratory-demo
-==============================
 
 Data Exploratory Analysis
 
@@ -55,3 +54,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# data-science-exploratory-demo
+Demo of Data Exploratory Analysis
